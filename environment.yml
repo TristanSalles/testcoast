@@ -2,8 +2,8 @@ name: coastproc-notebooks
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
-  - jupyterlab=2.1
+  - python
+  - jupyterlab
   - numpy
   - pip
   - pandas
